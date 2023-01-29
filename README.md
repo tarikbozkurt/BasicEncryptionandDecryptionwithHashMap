@@ -57,10 +57,11 @@ Yukarıda ki adımlar tamamlandıktan sonra;
            
            
            
-      ENG
+     
+-----------
+ ENG
       
       Preliminary explanation:
------------
 The codes in the "old" folder in the project are the first version of the project. Here you can examine the flow of the program with for's if's.
 
 
